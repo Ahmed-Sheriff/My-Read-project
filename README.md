@@ -6,7 +6,7 @@ The project uses Create-React-App starter
 You should have the node.js insatlled on your machine before install the project , If it's not installed you can download it from here : https://nodejs.org/en/
 Once Node is installed , You can clone the project into your directory as following :
 
- *  git clone https://github.com/Dalia-Yahia/MyReads-project.git
+ *  git clone "URL"
 
  *  npm install
 
